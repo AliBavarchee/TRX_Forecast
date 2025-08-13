@@ -1,6 +1,6 @@
 # TRON_Forecast: Advanced Cryptocurrency Price Prediction
 
-![TRON Forecast Visualization](album/TRX_Forecast.png)
+![TRON Forecast Visualization](album/TRX_Forecast_s.png)
 
 ## Introduction to TRON (TRX)
 
