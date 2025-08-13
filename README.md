@@ -101,3 +101,9 @@ python TRON_Forecast.py
 
 
 ---
+=============================================<p align="Center">![ALI BAVARCHIEE](https://teal-broad-gecko-650.mypinata.cloud/ipfs/bafkreif332ra4lrdjfzaiowc2ikhl65uflok37e7hmuxomwpccracarqpy)</p>=============================================
+=====
+| https://github.com/AliBavarchee/ |
+----
+| https://www.linkedin.com/in/ali-bavarchee-qip/ |
+
