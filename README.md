@@ -2,7 +2,7 @@
 
 ![TRON Forecast Visualization](album/TRX_Forecast_s.png)
 
-## Introduction to TRON (TRX)
+## What's TRON (TRX)
 
 TRON (TRX) is a decentralized blockchain platform founded in 2017 by Justin Sun, designed to build a free, global digital content entertainment system with distributed storage technology. Key features include:
 
