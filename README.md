@@ -2,6 +2,36 @@
 
 ![TRON Forecast Visualization](album/TRX_Forecast_s.png)
 
+---
+
+<p align="center">
+  <img src="https://github.com/DigitalHanaArts/DigitalHanaArts/blob/main/DHA_logo.png" width="333" alt="Digital Hana Arts">
+</p>
+
+<h1 align="center">Digital__Hana__Arts®</h1>
+
+<p align="center">
+  <strong>Computational Creativity · Data · Intelligence · Digital Art</strong>
+</p>
+
+<p align="center">
+  <em>
+    Exploring the space where technology becomes a creative medium.
+  </em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DigitalHanaArts">
+    <img src="https://img.shields.io/badge/GitHub-Digital%20Hana%20Arts-111827?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Research-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Science-Computing-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Digital%20Art-Generative-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Blockchain-Web3-111827?style=flat-square">
+</p>
+
+---
+
 ## What's TRON (TRX)
 
 TRON (TRX) is a decentralized blockchain platform founded in 2017 by Justin Sun, designed to build a free, global digital content entertainment system with distributed storage technology. Key features include:
