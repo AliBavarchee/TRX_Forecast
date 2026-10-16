@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/DigitalHanaArts/DigitalHanaArts/blob/main/DHA_logo.png" width="333" alt="Digital Hana Arts">
+  <img src="album//DHA_logo.png" width="333" alt="Digital Hana Arts">
 </p>
 
 <h1 align="center">Digital__Hana__Arts®</h1>
